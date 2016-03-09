@@ -1,6 +1,8 @@
 # pyMG
 
-[tbd]
+This Python code is a more or less structured framework for linear multigrid solvers. It contains the sources, 
+the exercises and the slides for the lecture "Einführung in Mehrgitter-Methoden" at FH Aachen, spring semester 2016. 
+More details can be found in the slides and the documentation.
 
 
 ## Structure
