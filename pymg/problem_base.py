@@ -49,7 +49,7 @@ class ProblemBase(object):
 
     @A.setter
     def A(self, A):
-        assert isinstance(A, sp.csc_matrix), 'Please use a matrix in the CSR format'
+        assert isinstance(A, sp.csc_matrix), 'Please use a matrix in the CSC format'
         self._A = A
 
     @property
