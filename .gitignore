@@ -64,5 +64,5 @@ target/
 
 # personal
 cover/
-notebooks/
-
+notebooks/html/
+notebooks/temp/
